@@ -1,6 +1,7 @@
 # tnmanage - TrueNAS Dataset Management Tool
 
 A command-line tool to manage datasets and NFS shares on TrueNAS.
+**This project was coded with the help of AI Tools. Use at your own risk!**
 
 ## Setup
 
